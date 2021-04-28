@@ -1,4 +1,5 @@
 import Https from 'https-axios-service'
+import React from 'react';
 import {Spin} from 'antd';
 import ReactDOM from "react-dom";
 import "./styles/loading.css"
