@@ -1,6 +1,6 @@
 {
   "name": "https-axios-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "基于react antd 封装的https请求",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^4.15.3",
-    "https-axios-service": "^1.0.0",
+    "https-axios-service": "^1.0.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
